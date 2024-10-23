@@ -89,7 +89,7 @@ def perform_gesture_action(gesture):
         print("Zooming in")
 
 # Optional: Open PowerPoint presentation (change file path as needed)
-        open_presentation(r"C:\Users\sanja\OneDrive\Desktop\IN65B5114.pptx") //your own ppt 
+        open_presentation(r"C:\Users\sanja\OneDrive\Desktop\IN65B5114.pptx") #your own ppt 
 
 
 while cap.isOpened():
